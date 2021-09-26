@@ -1,1 +1,1 @@
-# TP1_2nde_Variables-et-fonctions
+# TP1_Variables-et-fonctions
